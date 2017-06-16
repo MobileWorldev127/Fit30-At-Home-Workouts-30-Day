@@ -1,0 +1,186 @@
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "1Ck-DS-vEK"; */
+"1Ck-DS-vEK.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "Terms of Service"; ObjectID = "1Il-gO-iSb"; */
+"1Il-gO-iSb.normalTitle" = "Terms of Service";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "2cc-ID-2V6"; */
+"2cc-ID-2V6.text" = "Title";
+
+/* Class = "UILabel"; text = "Would you like to receive a notification when we add similar free workouts?"; ObjectID = "6Nx-kE-tlK"; */
+"6Nx-kE-tlK.text" = "Would you like to receive a notification when we add similar free workouts?";
+
+/* Class = "UILabel"; text = "and agree to the"; ObjectID = "6ww-sl-Cjx"; */
+"6ww-sl-Cjx.text" = "and agree to the";
+
+/* Class = "UINavigationItem"; title = "PUBLISH"; ObjectID = "779-3r-yjh"; */
+"779-3r-yjh.title" = "PUBLISH";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "7DP-Tc-ZhI"; */
+"7DP-Tc-ZhI.text" = "Title";
+
+/* Class = "UILabel"; text = "PRIMARY MUSCLE TARGET:"; ObjectID = "83s-vj-JCf"; */
+"83s-vj-JCf.text" = "PRIMARY MUSCLE TARGET:";
+
+/* Class = "UILabel"; text = "Day 1: 8 Minutes"; ObjectID = "AlI-gD-LRg"; */
+"AlI-gD-LRg.text" = "Day 1: 8 Minutes";
+
+/* Class = "UILabel"; text = "Home Workout"; ObjectID = "Ar0-yg-za0"; */
+"Ar0-yg-za0.text" = "Home Workout";
+
+/* Class = "UINavigationItem"; title = "DETAILS"; ObjectID = "BJZ-q3-aVt"; */
+"BJZ-q3-aVt.title" = "DETAILS";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "CvK-xf-3nu"; */
+"CvK-xf-3nu.text" = "Title";
+
+/* Class = "UILabel"; text = "Select Challenge"; ObjectID = "EK0-hI-dih"; */
+"EK0-hI-dih.text" = "Select Challenge";
+
+/* Class = "UIButton"; normalTitle = "CREATE EXERCISE"; ObjectID = "Fvq-z6-PX8"; */
+"Fvq-z6-PX8.normalTitle" = "CREATE EXERCISE";
+
+/* Class = "UISegmentedControl"; HtK-oO-Usz.segmentTitles[0] = "Beginner"; ObjectID = "HtK-oO-Usz"; */
+"HtK-oO-Usz.segmentTitles[0]" = "Beginner";
+
+/* Class = "UISegmentedControl"; HtK-oO-Usz.segmentTitles[1] = "Intermediate"; ObjectID = "HtK-oO-Usz"; */
+"HtK-oO-Usz.segmentTitles[1]" = "Intermediate";
+
+/* Class = "UISegmentedControl"; HtK-oO-Usz.segmentTitles[2] = "Advanced"; ObjectID = "HtK-oO-Usz"; */
+"HtK-oO-Usz.segmentTitles[2]" = "Advanced";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "Hzr-Dc-fCW"; */
+"Hzr-Dc-fCW.normalTitle" = "Cancel";
+
+/* Class = "UIBarButtonItem"; title = "PUBLISH"; ObjectID = "IoM-u3-4aB"; */
+"IoM-u3-4aB.title" = "PUBLISH";
+
+/* Class = "UITextField"; placeholder = "Enter workout title..."; ObjectID = "JfB-iD-aXr"; */
+"JfB-iD-aXr.placeholder" = "Enter workout title...";
+
+/* Class = "UIButton"; normalTitle = "Add Challenge"; ObjectID = "JuP-Dc-YOg"; */
+"JuP-Dc-YOg.normalTitle" = "Add Challenge";
+
+/* Class = "UIButton"; normalTitle = "PUBLISH WORKOUT"; ObjectID = "LNV-y2-DoT"; */
+"LNV-y2-DoT.normalTitle" = "PUBLISH WORKOUT";
+
+/* Class = "UITextField"; placeholder = "Enter keywords to improve workout discovery..."; ObjectID = "Lu3-WT-KWq"; */
+"Lu3-WT-KWq.placeholder" = "Enter keywords to improve workout discovery...";
+
+/* Class = "UILabel"; text = "My Email"; ObjectID = "MMF-Nz-VGI"; */
+"MMF-Nz-VGI.text" = "My Email";
+
+/* Class = "UILabel"; text = "read the "; ObjectID = "Mp6-Fk-7UT"; */
+"Mp6-Fk-7UT.text" = "read the ";
+
+/* Class = "UILabel"; text = "(no equipment needed)"; ObjectID = "Okp-KO-cLg"; */
+"Okp-KO-cLg.text" = "(no equipment needed)";
+
+/* Class = "UILabel"; text = "Sign up to save your favorite workouts"; ObjectID = "PQE-uN-0Ez"; */
+"PQE-uN-0Ez.text" = "Sign up to save your favorite workouts";
+
+/* Class = "UILabel"; text = "By tapping to continue, you are indicating that you have"; ObjectID = "PuN-oy-9rl"; */
+"PuN-oy-9rl.text" = "By tapping to continue, you are indicating that you have";
+
+/* Class = "UITextField"; placeholder = "Enter exercise title..."; ObjectID = "Q6r-3h-FTo"; */
+"Q6r-3h-FTo.placeholder" = "Enter exercise title...";
+
+/* Class = "UILabel"; text = "1. Enter Day 1 Reps:"; ObjectID = "Qif-Ih-Upw"; */
+"Qif-Ih-Upw.text" = "1. Enter Day 1 Reps:";
+
+/* Class = "UIButton"; normalTitle = "TAKE PHOTO"; ObjectID = "Rnq-rA-zfU"; */
+"Rnq-rA-zfU.normalTitle" = "TAKE PHOTO";
+
+/* Class = "UILabel"; text = "OPTIONAL:"; ObjectID = "UVS-xA-ulW"; */
+"UVS-xA-ulW.text" = "OPTIONAL:";
+
+/* Class = "UILabel"; text = "Your email address is used for password recovery. We will not expose your email to other users on Flexter or send you junk mail."; ObjectID = "UyJ-Jd-nDC"; */
+"UyJ-Jd-nDC.text" = "Your email address is used for password recovery. We will not expose your email to other users on Flexter or send you junk mail.";
+
+/* Class = "UILabel"; text = "The username is not available"; ObjectID = "Vrk-Md-mAx"; */
+"Vrk-Md-mAx.text" = "The username is not available";
+
+/* Class = "UIButton"; normalTitle = "CHOOSE PHOTO"; ObjectID = "Vyz-yY-wdu"; */
+"Vyz-yY-wdu.normalTitle" = "CHOOSE PHOTO";
+
+/* Class = "UILabel"; text = "Bodyweight"; ObjectID = "W9X-aF-67h"; */
+"W9X-aF-67h.text" = "Bodyweight";
+
+/* Class = "UIBarButtonItem"; title = "NEXT"; ObjectID = "Ydf-6j-deP"; */
+"Ydf-6j-deP.title" = "NEXT";
+
+/* Class = "UILabel"; text = "Already have an account?"; ObjectID = "Yw9-d2-NN2"; */
+"Yw9-d2-NN2.text" = "Already have an account?";
+
+/* Class = "UILabel"; text = "OPTIONAL:"; ObjectID = "ZJF-Xw-75e"; */
+"ZJF-Xw-75e.text" = "OPTIONAL:";
+
+/* Class = "UIButton"; normalTitle = "TAKE VIDEO"; ObjectID = "ZoI-1I-Hqf"; */
+"ZoI-1I-Hqf.normalTitle" = "TAKE VIDEO";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "asN-YM-D5O"; */
+"asN-YM-D5O.text" = "Detail";
+
+/* Class = "UILabel"; text = "Unlock All Challenges"; ObjectID = "bhz-vm-3uI"; */
+"bhz-vm-3uI.text" = "Unlock All Challenges";
+
+/* Class = "UITextField"; placeholder = "New Challenge Name"; ObjectID = "biB-Uc-idM"; */
+"biB-Uc-idM.placeholder" = "New Challenge Name";
+
+/* Class = "UINavigationItem"; title = "PUBLISH"; ObjectID = "blo-rd-xva"; */
+"blo-rd-xva.title" = "PUBLISH";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "cpI-z0-0wc"; */
+"cpI-z0-0wc.title" = "Cancel";
+
+/* Class = "UITextField"; placeholder = "3"; ObjectID = "cvN-Cr-rtc"; */
+"cvN-Cr-rtc.placeholder" = "3";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "dae-hZ-oHa"; */
+"dae-hZ-oHa.title" = "Settings";
+
+/* Class = "UIButton"; normalTitle = "Privacy Policy"; ObjectID = "fWZ-58-6vQ"; */
+"fWZ-58-6vQ.normalTitle" = "Privacy Policy";
+
+/* Class = "UILabel"; text = "(can be done at home)"; ObjectID = "h6P-Rn-WfQ"; */
+"h6P-Rn-WfQ.text" = "(can be done at home)";
+
+/* Class = "UILabel"; text = "The email is not available"; ObjectID = "hIn-CN-ALi"; */
+"hIn-CN-ALi.text" = "The email is not available";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "hNQ-5F-PUp"; */
+"hNQ-5F-PUp.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "PLAY VIDEO"; ObjectID = "hb4-8T-spR"; */
+"hb4-8T-spR.normalTitle" = "PLAY VIDEO";
+
+/* Class = "UIButton"; normalTitle = "Log in."; ObjectID = "ij1-XK-duG"; */
+"ij1-XK-duG.normalTitle" = "Log in.";
+
+/* Class = "UINavigationItem"; title = "RECORD"; ObjectID = "nDl-CW-45w"; */
+"nDl-CW-45w.title" = "RECORD";
+
+/* Class = "UIBarButtonItem"; title = "NEXT"; ObjectID = "nKV-sb-pD0"; */
+"nKV-sb-pD0.title" = "NEXT";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "ocl-eO-HW0"; */
+"ocl-eO-HW0.normalTitle" = "SAVE";
+
+/* Class = "UILabel"; text = "3. Pick Time Per Rep (in seconds)"; ObjectID = "p2q-gk-rOm"; */
+"p2q-gk-rOm.text" = "3. Pick Time Per Rep (in seconds)";
+
+/* Class = "UILabel"; text = "What feature would you like to see next on the app?"; ObjectID = "qie-Mb-gSI"; */
+"qie-Mb-gSI.text" = "What feature would you like to see next on the app?";
+
+/* Class = "UIButton"; normalTitle = "CHOOSE VIDEO"; ObjectID = "tBC-4c-uLw"; */
+"tBC-4c-uLw.normalTitle" = "CHOOSE VIDEO";
+
+/* Class = "UILabel"; text = "2. Enter Day 30 Reps:"; ObjectID = "tiy-qA-LHb"; */
+"tiy-qA-LHb.text" = "2. Enter Day 30 Reps:";
+
+/* Class = "UITextField"; placeholder = "Enter workout description..."; ObjectID = "wMe-uU-nqG"; */
+"wMe-uU-nqG.placeholder" = "Enter workout description...";
+
+/* Class = "UITextField"; placeholder = "10"; ObjectID = "zcr-pj-dgR"; */
+"zcr-pj-dgR.placeholder" = "10";

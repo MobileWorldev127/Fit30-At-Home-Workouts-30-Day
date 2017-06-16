@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10117" systemVersion="15F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="MzT-8N-GxB" customClass="WorkoutHeaderView">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="320"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <imageView contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="kXd-H0-qdA">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="320"/>
+                </imageView>
+                <imageView userInteractionEnabled="NO" alpha="0.59999999999999998" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="Zlb-Sn-lDk">
+                    <rect key="frame" x="0.0" y="235" width="320" height="85"/>
+                    <color key="backgroundColor" red="0.32156862745098042" green="0.32941176470588235" blue="0.33725490196078434" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                </imageView>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" usesAttributedText="YES" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="9" translatesAutoresizingMaskIntoConstraints="NO" id="uR9-kb-oGW">
+                    <rect key="frame" x="5" y="244" width="310" height="32"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="310" id="8th-kj-4SX"/>
+                    </constraints>
+                    <attributedString key="attributedText">
+                        <fragment content="#GetRipped #SummerAbs">
+                            <attributes>
+                                <color key="NSColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <font key="NSFont" size="23" name="AvenirNext-Regular"/>
+                                <paragraphStyle key="NSParagraphStyle" alignment="center" lineBreakMode="truncatingTail" baseWritingDirection="natural"/>
+                            </attributes>
+                        </fragment>
+                    </attributedString>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" usesAttributedText="YES" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="none" minimumFontSize="9" translatesAutoresizingMaskIntoConstraints="NO" id="4JG-Kd-YdP" customClass="TTTAttributedLabel">
+                    <rect key="frame" x="10" y="272" width="300" height="44"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="300" id="JP9-we-HW7"/>
+                    </constraints>
+                    <attributedString key="attributedText">
+                        <fragment content="Beach season is around the corner. Time to get ripped, tone up and turn... See more">
+                            <attributes>
+                                <color key="NSColor" red="0.96862745100000003" green="0.96862745100000003" blue="0.96862745100000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <font key="NSFont" size="15" name="AvenirNext-Regular"/>
+                                <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="truncatingTail" baseWritingDirection="natural"/>
+                            </attributes>
+                        </fragment>
+                    </attributedString>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="4JG-Kd-YdP" secondAttribute="bottom" constant="4" id="Hd4-Cf-QQ2"/>
+                <constraint firstAttribute="centerX" secondItem="uR9-kb-oGW" secondAttribute="centerX" id="OZg-Mj-H0E"/>
+                <constraint firstItem="4JG-Kd-YdP" firstAttribute="top" secondItem="MzT-8N-GxB" secondAttribute="top" constant="272" id="Prv-kM-2u8"/>
+                <constraint firstAttribute="centerX" secondItem="4JG-Kd-YdP" secondAttribute="centerX" id="Uo1-Pw-TGw"/>
+                <constraint firstAttribute="bottom" secondItem="Zlb-Sn-lDk" secondAttribute="bottom" id="Yqf-ua-35d"/>
+                <constraint firstItem="Zlb-Sn-lDk" firstAttribute="leading" secondItem="MzT-8N-GxB" secondAttribute="leading" id="biC-O0-eWZ"/>
+                <constraint firstItem="uR9-kb-oGW" firstAttribute="top" secondItem="MzT-8N-GxB" secondAttribute="top" constant="244" id="nYY-d4-hcH"/>
+                <constraint firstAttribute="trailing" secondItem="Zlb-Sn-lDk" secondAttribute="trailing" id="qhM-SK-7pj"/>
+                <constraint firstItem="Zlb-Sn-lDk" firstAttribute="top" secondItem="MzT-8N-GxB" secondAttribute="top" constant="235" id="yg0-34-kSn"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="backgroundImageView" destination="kXd-H0-qdA" id="Kx6-Ee-7rB"/>
+                <outlet property="descriptionLabel" destination="4JG-Kd-YdP" id="jz1-vO-Tcc"/>
+                <outlet property="descriptionYConstraint" destination="Prv-kM-2u8" id="I1X-L4-XxR"/>
+                <outlet property="hashtagLabel" destination="uR9-kb-oGW" id="MwM-i7-eu4"/>
+                <outlet property="hashtagYConstraint" destination="nYY-d4-hcH" id="rRt-gh-YH5"/>
+                <outlet property="textBackgroundYConstraint" destination="yg0-34-kSn" id="IGl-cL-0zD"/>
+            </connections>
+            <point key="canvasLocation" x="116" y="154"/>
+        </view>
+    </objects>
+</document>
